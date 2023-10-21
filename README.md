@@ -64,6 +64,14 @@ Run the development server:
 
 Open your browser and navigate to http://localhost:3000 to see the application in action.
 
+### .Env
+
+You will need an api read access token from https://www.themoviedb.org/
+
+```
+VITE_APP_TMDB_TOKEN=
+```
+
 ### Dependencies
 
 - React: The main library used for building the user interface.
