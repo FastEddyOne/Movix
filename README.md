@@ -2,6 +2,8 @@
 
 Movix is a modern web application designed to provide users with information about movies and TV shows. With a clean and responsive user interface, the application integrates various components to offer a seamless user experience.
 
+https://movix-mu-amber.vercel.app
+
 ### Features
 
 - Header Navigation: Allows users to navigate between movies, TV shows, and search.
